@@ -3331,20 +3331,20 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Place Order","Objednať",module,Magento_Checkout
 "Forgot an Item?","Forgot an Item?",module,Magento_Checkout
 "Edit Your Cart","Edit Your Cart",module,Magento_Checkout
-"Ship Here","Ship Here",module,Magento_Checkout
-"Ship To:","Ship To:",module,Magento_Checkout
+"Ship Here","Doručiť Sem",module,Magento_Checkout
+"Ship To:","Doručiť Na:",module,Magento_Checkout
 "edit","edit",module,Magento_Checkout
-"Order Summary","Order Summary",module,Magento_Checkout
+"Order Summary","Prehľad Objednávky",module,Magento_Checkout
 "View and Edit Cart","Zobraziť košík",module,Magento_Checkout
 "View Details","Zobraziť podrobnosti",module,Magento_Checkout
-"Field ","Field ",module,Magento_Checkout
-" is required."," is required.",module,Magento_Checkout
+"Field ","Pole ",module,Magento_Checkout
+" is required."," je povinné.",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Checkout
 " Example: "," Example: ",module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
-"New Address","New Address",module,Magento_Checkout
+"New Address","Nová Adresa",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
-"Review & Payments","Review & Payments",module,Magento_Checkout
+"Review & Payments","Kontrola & Platba",module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
 "Shipping","Doprava",module,Magento_Checkout
 "Save Address","Uložiť adresu",module,Magento_Checkout
@@ -3393,7 +3393,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Recently added item(s)","Recently added item(s)",module,Magento_Checkout
 "View and edit cart","Zobraziť košík",module,Magento_Checkout
 "No Payment Methods","No Payment Methods",module,Magento_Checkout
-"Shipping Methods","Shipping Methods",module,Magento_Checkout
+"Shipping Methods","Spôsob Doručenia",module,Magento_Checkout
 "Select Method","Select Method",module,Magento_Checkout
 "Method Title","Method Title",module,Magento_Checkout
 "Carrier Title","Carrier Title",module,Magento_Checkout
@@ -7234,7 +7234,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "The following items have been purchased from your gift registry ""%registry_name"":","The following items have been purchased from your gift registry ""%registry_name"":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","You can sign in to your account to view more details about this gift registry.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
-"Ship Here","Ship Here",module,Magento_GiftRegistry
+"Ship Here","Doručiť Sem",module,Magento_GiftRegistry
 "Recipient Address","Recipient Address",module,Magento_GiftRegistry
 "Use gift registry shipping address","Use gift registry shipping address",module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.",module,Magento_GiftRegistry
@@ -8331,7 +8331,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Review Order - %1","Review Order - %1",module,Magento_Multishipping
 "Total","Celkom",module,Magento_Multishipping
 "Total for this address","Total for this address",module,Magento_Multishipping
-"Shipping Methods","Shipping Methods",module,Magento_Multishipping
+"Shipping Methods","Spôsob Doručenia",module,Magento_Multishipping
 "Edit Address","Upraviť adresu",module,Magento_Multishipping
 "Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
 "Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
@@ -8387,7 +8387,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Edit Items","Edit Items",module,Magento_Multishipping
 "Shipping is not applicable.","Shipping is not applicable.",module,Magento_Multishipping
 "Product Name","Názov produktu",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
+"Check Out with Multiple Addresses","Doručenie na Viac Adries",module,Magento_Multishipping
 "Please see","Please see",module,Magento_Multishipping
 "details below","details below",module,Magento_Multishipping
 "Address","Adresa",module,Magento_Multishipping
@@ -8811,7 +8811,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Apply","Použiť",module,Magento_NegotiableQuote
 "See Balance","See Balance",module,Magento_NegotiableQuote
 "Edit","Upraviť",module,Magento_NegotiableQuote
-"Ship Here","Ship Here",module,Magento_NegotiableQuote
+"Ship Here","Doručiť Sem",module,Magento_NegotiableQuote
 "Update Catalog Prices","Update Catalog Prices",module,Magento_NegotiableQuote
 "If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.",module,Magento_NegotiableQuote
 "No ordered items","Žiadne zoradené položky",module,Magento_NegotiableQuote
@@ -13635,7 +13635,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
 "Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
 "Shipping Policy","Shipping Policy",module,Magento_Shipping
-"Shipping Methods","Shipping Methods",module,Magento_Shipping
+"Shipping Methods","Spôsob Doručenia",module,Magento_Shipping
 "Track your order","Track your order",module,Magento_Shipping
 "Track All Shipments","Track All Shipments",module,Magento_Shipping
 "You sent the shipment.","You sent the shipment.",module,Magento_Shipping
@@ -14049,7 +14049,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Partial Refund Offline","Partial Refund Offline",module,Magento_Support
 "Payments Functionality Matrix","Payments Functionality Matrix",module,Magento_Support
 "Payment Methods","Payment Methods",module,Magento_Support
-"Shipping Methods","Shipping Methods",module,Magento_Support
+"Shipping Methods","Spôsob Doručenia",module,Magento_Support
 "Job Code","Job Code",module,Magento_Support
 "Cron Expression","Cron Expression",module,Magento_Support
 "Run Class","Run Class",module,Magento_Support
@@ -14520,8 +14520,8 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Subtotal Only","Subtotal Only",module,Magento_Tax
 "(Excl. Tax)","(Excl. Tax)",module,Magento_Tax
 "(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
-"Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
-"Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
+"Order Total Excl. Tax","Spolu bez dane",module,Magento_Tax
+"Order Total Incl. Tax","Spolu s daňou",module,Magento_Tax
 "Order Total","Celkom",module,Magento_Tax
 "You will be charged for","You will be charged for",module,Magento_Tax
 "Warning tax configuration can result in rounding errors. ","Warning tax configuration can result in rounding errors. ",module,Magento_Tax
