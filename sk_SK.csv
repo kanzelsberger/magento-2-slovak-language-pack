@@ -5718,7 +5718,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "was not","was not",module,Magento_CustomerSegment
 "If Product %1 %2 and matches %3 of these Conditions:","If Product %1 %2 and matches %3 of these Conditions:",module,Magento_CustomerSegment
 "Shopping Cart","Nákupný košík",module,Magento_CustomerSegment
-"Wish List","Wish List",module,Magento_CustomerSegment
+"Wish List","Zoznam prianí",module,Magento_CustomerSegment
 "found","found",module,Magento_CustomerSegment
 "not found","not found",module,Magento_CustomerSegment
 "If Product is %1 in the %2 with %3 of these Conditions match:","If Product is %1 in the %2 with %3 of these Conditions match:",module,Magento_CustomerSegment
@@ -8193,7 +8193,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.",module,Magento_Msrp
 "Wishlist","Zoznam želaní",module,Magento_MultipleWishlist
 "Customer's Wish List Report","Customer's Wish List Report",module,Magento_MultipleWishlist
-"My Wish Lists","My Wish Lists",module,Magento_MultipleWishlist
+"My Wish Lists","Moje Zoznamy Prianí",module,Magento_MultipleWishlist
 "1 item in wish list","1 položka v zozname prianí",module,Magento_MultipleWishlist
 "%1 items in wish list","%1 položiek v zozname prianí",module,Magento_MultipleWishlist
 "Wish List Search","Wish List Search",module,Magento_MultipleWishlist
@@ -16035,7 +16035,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Inserting a widget does not create a widget instance.","Inserting a widget does not create a widget instance.",module,Magento_Widget
 "Wish List","Wish List",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","My Wish List",module,Magento_Wishlist
+"My Wish List","Môj Zoznam Prianí",module,Magento_Wishlist
 "%1's Wish List","%1's Wish List",module,Magento_Wishlist
 "Page not found.","Stránka sa nenašla.",module,Magento_Wishlist
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
