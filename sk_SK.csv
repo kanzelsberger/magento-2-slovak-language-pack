@@ -4085,7 +4085,7 @@ for the following reason:",module,Magento_Company
 "This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.","This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.",module,Magento_Company
 "Change Company?","Change Company?",module,Magento_Company
 "Associate to Company","Associate to Company",module,Magento_Company
-"My Orders","My Orders",module,Magento_Company
+"My Orders","Moje Objednávky",module,Magento_Company
 "Create New Customer","Create New Customer",module,Magento_Company
 "Create New Company Account","Create New Company Account",module,Magento_Company
 "Name","Meno",module,Magento_Company
@@ -5026,10 +5026,10 @@ new products will be created. Use this step to customize images and price for yo
 "Default Shipping Address","Predvolená adresa doručenia",module,Magento_Customer
 "Contact Information","Contact Information",module,Magento_Customer
 "Change Password","Zmeniť heslo",module,Magento_Customer
-"Newsletters","Newsletters",module,Magento_Customer
+"Newsletters","Odber Noviniek",module,Magento_Customer
 "You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
 "or","alebo",module,Magento_Customer
-"Default Addresses","Default Addresses",module,Magento_Customer
+"Default Addresses","Predvolené Adresy",module,Magento_Customer
 "Change Billing Address","Zmena fakturačnej adresy",module,Magento_Customer
 "You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
 "Change Shipping Address","Zmeniť dodaciu adresu",module,Magento_Customer
@@ -6042,7 +6042,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "All Files","Všetky súbory",module,Magento_Downloadable
 "Unlimited","Unlimited",module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
+"My Downloadable Products","Moje Produkty na Prevzatie",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -6119,7 +6119,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Availability","Dostupnosť",module,Magento_Downloadable
 "In stock","Skladom",module,Magento_Downloadable
 "Out of stock","Vypredané",module,Magento_Downloadable
-"Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
+"Go to <a href=""%1"">My Downloadable Products</a>","Choďte na <a href=""%1"">Moje Produkty na Prevzatie</a>",module,Magento_Downloadable
 "Downloadable Products","Downloadable Products",module,Magento_Downloadable
 "Order #","Objednávka #",module,Magento_Downloadable
 "Date","Dátum",module,Magento_Downloadable
@@ -6127,7 +6127,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
 "View Order","Zobraziť objednávku",module,Magento_Downloadable
 "Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Zatiaľ ste nezakúpili žiadne produkty na prevzatie.",module,Magento_Downloadable
 "Back","Späť",module,Magento_Downloadable
 "download","download",module,Magento_Downloadable
 "Gift Message","Venovanie",module,Magento_Downloadable
@@ -8054,7 +8054,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Forgot Password","Forgot Password",module,Magento_Logging
 "Global Search","Globálne vyhľadávanie",module,Magento_Logging
 "Apply","Použiť",module,Magento_Logging
-"Reorder","Reorder",module,Magento_Logging
+"Reorder","Objednať Znova",module,Magento_Logging
 "Print","Print",module,Magento_Logging
 "Email","E-mail",module,Magento_Logging
 "Run","Run",module,Magento_Logging
@@ -8483,7 +8483,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Amount Discount","Amount Discount",module,Magento_NegotiableQuote
 "Proposed Price","Proposed Price",module,Magento_NegotiableQuote
 "Quote Subtotal","Quote Subtotal",module,Magento_NegotiableQuote
-"My Orders","My Orders",module,Magento_NegotiableQuote
+"My Orders","Moje Objednávky",module,Magento_NegotiableQuote
 "My Quotes","My Quotes",module,Magento_NegotiableQuote
 "created quote","created quote",module,Magento_NegotiableQuote
 "closed quote","closed quote",module,Magento_NegotiableQuote
@@ -8743,7 +8743,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Order Placed From Quote:","Order Placed From Quote:",module,Magento_NegotiableQuote
 "Cannot Open the Quote","Cannot Open the Quote",module,Magento_NegotiableQuote
 "This quote cannot be viewed at the current website. Would you like to navigate to the website where you created this quote?","This quote cannot be viewed at the current website. Would you like to navigate to the website where you created this quote?",module,Magento_NegotiableQuote
-"Show My Orders","Show My Orders",module,Magento_NegotiableQuote
+"Show My Orders","Zobraziť Moje Objednávky",module,Magento_NegotiableQuote
 "Show All Orders","Show All Orders",module,Magento_NegotiableQuote
 "Merge","Merge",module,Magento_NegotiableQuote
 "Replace","Replace",module,Magento_NegotiableQuote
@@ -11110,14 +11110,14 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You deleted the rating.","You deleted the rating.",module,Magento_Review
 "Ratings","Ratings",module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
+"My Product Reviews","Moje Recenzie Produktov",module,Magento_Review
 "Cannot initialize product","Cannot initialize product",module,Magento_Review
 "You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
 "Storage key was not set","Storage key was not set",module,Magento_Review
-"Approved","Approved",module,Magento_Review
-"Pending","Pending",module,Magento_Review
-"Not Approved","Not Approved",module,Magento_Review
+"Approved","Schválené",module,Magento_Review
+"Pending","Čakajúce",module,Magento_Review
+"Not Approved","Neschválené",module,Magento_Review
 "Please enter a review summary.","Please enter a review summary.",module,Magento_Review
 "Please enter a nickname.","Please enter a nickname.",module,Magento_Review
 "Please enter a review.","Please enter a review.",module,Magento_Review
@@ -11129,10 +11129,10 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rating","Rating",module,Magento_Review
 "Actions","Akcie",module,Magento_Review
 "See Details","Pozri detaily",module,Magento_Review
-"You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
+"You have submitted no reviews.","Neodoslali ste žiadne recenzie.",module,Magento_Review
 "Back","Späť",module,Magento_Review
 "My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
+"View All","Zobraziť Všetko",module,Magento_Review
 "Average Customer Rating:","Average Customer Rating:",module,Magento_Review
 "Your Review","Your Review",module,Magento_Review
 "Submitted on %1","Submitted on %1",module,Magento_Review
@@ -11905,7 +11905,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Invoice and Ship","Invoice and Ship",module,Magento_Sales
 "Invoice","Faktúra",module,Magento_Sales
 "Ship","Ship",module,Magento_Sales
-"Reorder","Reorder",module,Magento_Sales
+"Reorder","Objednať Znova",module,Magento_Sales
 "Order # %1 %2 | %3","Order # %1 %2 | %3",module,Magento_Sales
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Are you sure? This order will be canceled and a new one will be created instead.",module,Magento_Sales
@@ -11949,10 +11949,10 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Value","Value",module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
 "Order # %1","Order # %1",module,Magento_Sales
-"Back to My Orders","Back to My Orders",module,Magento_Sales
+"Back to My Orders","Späť na Moje Objednávky",module,Magento_Sales
 "View Another Order","View Another Order",module,Magento_Sales
 "About Your Refund","About Your Refund",module,Magento_Sales
-"My Orders","My Orders",module,Magento_Sales
+"My Orders","Moje Objednávky",module,Magento_Sales
 "Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
 "About Your Invoice","About Your Invoice",module,Magento_Sales
 "Print Order # %1","Print Order # %1",module,Magento_Sales
@@ -12419,9 +12419,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Shipment #%1","Shipment #%1",module,Magento_Sales
 "Qty Shipped","Odoslané množstvo",module,Magento_Sales
 "Recent Orders","Recent Orders",module,Magento_Sales
-"View All","View All",module,Magento_Sales
+"View All","Zobraziť Všetko",module,Magento_Sales
 "Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
-"Recently Ordered","Recently Ordered",module,Magento_Sales
+"Recently Ordered","Nedávno Objednané",module,Magento_Sales
 "Add to Cart","Pridať do košíka",module,Magento_Sales
 "Search","Hľadať",module,Magento_Sales
 "Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
@@ -13477,7 +13477,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Show Packages","Show Packages",module,Magento_Shipping
 "About Your Shipment","About Your Shipment",module,Magento_Shipping
 "Order # %1","Order # %1",module,Magento_Shipping
-"Back to My Orders","Back to My Orders",module,Magento_Shipping
+"Back to My Orders","Späť na Moje Objednávky",module,Magento_Shipping
 "View Another Order","View Another Order",module,Magento_Shipping
 "Please enter a comment.","Please enter a comment.",module,Magento_Shipping
 "Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
@@ -15563,12 +15563,12 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Wrong request.","Wrong request.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Uložené Spôsoby Platby",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Číslo karty",module,Magento_Vault
 "Expiration Date","Dátum expirácie",module,Magento_Vault
 "Type","Typ",module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","Nemáte uložené žiadne spôsoby platby.",module,Magento_Vault
 "ending","ending",module,Magento_Vault
 "Actions","Akcie",module,Magento_Vault
 "Delete","Zmazať",module,Magento_Vault
@@ -16125,7 +16125,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Last Added Items","Last Added Items",module,Magento_Wishlist
 "Remove This Item","Odstrániť túto položku",module,Magento_Wishlist
 "Go to Wish List","Go to Wish List",module,Magento_Wishlist
-"You have no items in your wish list.","You have no items in your wish list.",module,Magento_Wishlist
+"You have no items in your wish list.","V zozname prianí nemáte žiadne položky.",module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
 "Message from %customer_name:","Message from %customer_name:",module,Magento_Wishlist
