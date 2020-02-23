@@ -11771,9 +11771,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "is undefined","is undefined",module,Magento_Rule
 "Credit Memos","Credit Memos",module,Magento_Sales
 "Orders","Objednávky",module,Magento_Sales
-"Invoices","Invoices",module,Magento_Sales
+"Invoices","Faktúry",module,Magento_Sales
 "We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
-"Create New Order","Create New Order",module,Magento_Sales
+"Create New Order","Vytvoriť Novú Objednávku",module,Magento_Sales
 "Save Order Address","Save Order Address",module,Magento_Sales
 "Shipping","Doprava",module,Magento_Sales
 "Billing","Billing",module,Magento_Sales
@@ -14668,7 +14668,7 @@ than a customer might expect. ",module,Magento_Tax
 "Local Storage seems to be disabled in your browser.","Local Storage seems to be disabled in your browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","For the best experience on our site, be sure to turn on Local Storage in your browser.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","This is demo store. No orders will be fulfilled.",module,Magento_Theme
-"Items %1 to %2 of %3 total","Items %1 to %2 of %3 total",module,Magento_Theme
+"Items %1 to %2 of %3 total","Položky %1 až %2 z %3 spolu",module,Magento_Theme
 "%1 Item","%1 položka",module,Magento_Theme
 "%1 Item(s)","%1 Item(s)",module,Magento_Theme
 "Page","Page",module,Magento_Theme
