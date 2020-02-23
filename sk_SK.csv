@@ -6085,7 +6085,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "URL","URL",module,Magento_Downloadable
 "attachment","attachment",module,Magento_Downloadable
 "inline","inline",module,Magento_Downloadable
-"Pending","Pending",module,Magento_Downloadable
+"Pending","Čaká sa",module,Magento_Downloadable
 "Invoiced","Fakturované",module,Magento_Downloadable
 "To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
 "Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
@@ -11799,7 +11799,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Create New Order in %1","Create New Order in %1",module,Magento_Sales
 "Create New Order for %1","Create New Order for %1",module,Magento_Sales
 "Create New Order for New Customer","Create New Order for New Customer",module,Magento_Sales
-"Items Ordered","Items Ordered",module,Magento_Sales
+"Items Ordered","Objednané Položky",module,Magento_Sales
 "This product is disabled.","This product is disabled.",module,Magento_Sales
 "Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
 "Item ordered qty","Item ordered qty",module,Magento_Sales
@@ -12086,7 +12086,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Requested entity doesn't exist","Requested entity doesn't exist",module,Magento_Sales
 "Could not delete order address","Could not delete order address",module,Magento_Sales
 "Could not save order address","Could not save order address",module,Magento_Sales
-"Pending","Pending",module,Magento_Sales
+"Pending","Čaká na spracovanie",module,Magento_Sales
 "Refunded","Vrátené",module,Magento_Sales
 "Canceled","Zrušené",module,Magento_Sales
 "Unknown State","Unknown State",module,Magento_Sales
@@ -12248,10 +12248,10 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Could not save a shipment, see error log for details","Could not save a shipment, see error log for details",module,Magento_Sales
 "VAT Request Identifier","VAT Request Identifier",module,Magento_Sales
 "VAT Request Date","VAT Request Date",module,Magento_Sales
-"Pending Payment","Pending Payment",module,Magento_Sales
-"Processing","Processing",module,Magento_Sales
-"On Hold","On Hold",module,Magento_Sales
-"Complete","Complete",module,Magento_Sales
+"Pending Payment","Čaká sa na platbu",module,Magento_Sales
+"Processing","Spracúva sa",module,Magento_Sales
+"On Hold","Pozastavené",module,Magento_Sales
+"Complete","Vybavené",module,Magento_Sales
 "Closed","Zatvorené",module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
 "Payment Review","Payment Review",module,Magento_Sales
@@ -12408,9 +12408,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You have placed no orders.","You have placed no orders.",module,Magento_Sales
 "No shipping information available","No shipping information available",module,Magento_Sales
 "Print Order","Vytlačiť objednávku",module,Magento_Sales
-"Print All Invoices","Print All Invoices",module,Magento_Sales
+"Print All Invoices","Vytlačiť Všetky Faktúry",module,Magento_Sales
 "Invoice #","Invoice #",module,Magento_Sales
-"Print Invoice","Print Invoice",module,Magento_Sales
+"Print Invoice","Vytlačiť faktúru",module,Magento_Sales
 "Qty Invoiced","Fakturované množstvo",module,Magento_Sales
 "Close","Zavrieť",module,Magento_Sales
 "About Your Order","About Your Order",module,Magento_Sales
@@ -12563,7 +12563,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "All Store Views","Všetky zobrazenia obchodu",module,Magento_Sales
 "PDF Credit Memos","PDF Credit Memos",module,Magento_Sales
 "Purchase Point","Miesto nákupu",module,Magento_Sales
-"Print Invoices","Print Invoices",module,Magento_Sales
+"Print Invoices","Vytlačiť Faktúry",module,Magento_Sales
 "Print Packing Slips","Print Packing Slips",module,Magento_Sales
 "Print Credit Memos","Print Credit Memos",module,Magento_Sales
 "Print All","Print All",module,Magento_Sales
@@ -12634,7 +12634,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "We have archived the order.","We have archived the order.",module,Magento_SalesArchive
 "Please specify the order ID to be archived.","Please specify the order ID to be archived.",module,Magento_SalesArchive
 "Credit Memos","Credit Memos",module,Magento_SalesArchive
-"Invoices","Invoices",module,Magento_SalesArchive
+"Invoices","Faktúry",module,Magento_SalesArchive
 "We archived %1 order(s).","We archived %1 order(s).",module,Magento_SalesArchive
 "We can't archive the selected order(s).","We can't archive the selected order(s).",module,Magento_SalesArchive
 "We removed %1 order(s) from the archive.","We removed %1 order(s) from the archive.",module,Magento_SalesArchive
@@ -14379,8 +14379,8 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Add New Tax Class","Add New Tax Class",module,Magento_Tax
 "Shipping Incl. Tax (%1)","Shipping Incl. Tax (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Shipping Excl. Tax (%1)",module,Magento_Tax
-"Subtotal (Excl.Tax)","Subtotal (Excl.Tax)",module,Magento_Tax
-"Subtotal (Incl.Tax)","Subtotal (Incl.Tax)",module,Magento_Tax
+"Subtotal (Excl.Tax)","Medzisúčet (bez dane)",module,Magento_Tax
+"Subtotal (Incl.Tax)","Medzisúčet (s daňou)",module,Magento_Tax
 "Shipping & Handling (Excl.Tax)","Shipping & Handling (Excl.Tax)",module,Magento_Tax
 "Shipping & Handling (Incl.Tax)","Shipping & Handling (Incl.Tax)",module,Magento_Tax
 "Grand Total (Excl.Tax)","Grand Total (Excl.Tax)",module,Magento_Tax
