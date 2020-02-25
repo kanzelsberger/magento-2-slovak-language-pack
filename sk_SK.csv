@@ -135,7 +135,7 @@
 "You cannot configure a product.","Nemožete nakonfigurovať produkt.",module,Magento_AdvancedCheckout
 "You removed the items.","Odstránili ste položky.",module,Magento_AdvancedCheckout
 "You removed the item.","Odstránili ste položku.",module,Magento_AdvancedCheckout
-"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupného košíka.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Nemôžete pridať produkt.",module,Magento_AdvancedCheckout
 "Order by SKU","Zoradiť podľa katalógového čísla",module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.","SKU sa v katalógu nenašlo.",module,Magento_AdvancedCheckout
@@ -3214,7 +3214,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Customer is already registered","Zákazník je už zaregistrovaný",module,Magento_Checkout
 "Your session has expired","Platnosť vašej relácie uplynula",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Na váš e-mail sa odošú informácie s ďalšími pokynmi.",module,Magento_Checkout
-"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_Checkout
+"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupného košíka.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Práve teraz nieje možné pridať položku do vašeho košíka.",module,Magento_Checkout
 "Out of stock","Vypredané",module,Magento_Checkout
 "We can't find the quote item.","Nemôžeme nájsť položku z vašeho košíka.",module,Magento_Checkout
@@ -3405,7 +3405,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Maximum Display Recently Added Item(s)","Maximum Display Recently Added Item(s)",module,Magento_Checkout
 "of","of",module,Magento_Checkout
 "Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Pridali ste %1 do Vašeho <a href=""%2"">nákupného košíka</a>.",module,Magento_Checkout
 "Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
 "The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
@@ -4401,7 +4401,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "Create New Attribute","Vytvoriť nový atribút",module,Magento_ConfigurableProduct
 "Select Attributes","Select Attributes",module,Magento_ConfigurableProduct
 "Summary","Zhrnutie",module,Magento_ConfigurableProduct
-"Choose an Option...","Choose an Option...",module,Magento_ConfigurableProduct
+"Choose an Option...","Vyberte z Možností...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","This attribute is used in configurable products.",module,Magento_ConfigurableProduct
 "Product has been already attached","Product has been already attached",module,Magento_ConfigurableProduct
 "Parent product does not have configurable product options","Parent product does not have configurable product options",module,Magento_ConfigurableProduct
@@ -8654,7 +8654,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "exception message","exception message",module,Magento_NegotiableQuote
 "View","Zobraziť",module,Magento_NegotiableQuote
 "Associated Products","Associated Products",module,Magento_NegotiableQuote
-"Choose an Option...","Choose an Option...",module,Magento_NegotiableQuote
+"Choose an Option...","Vyberte z Možností...",module,Magento_NegotiableQuote
 "Availability:","Dostupnosť:",module,Magento_NegotiableQuote
 "Out of stock","Vypredané",module,Magento_NegotiableQuote
 "Amount","Amount",module,Magento_NegotiableQuote
@@ -10940,7 +10940,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "We can't add the item to the Requisition List right now: %1.","We can't add the item to the Requisition List right now: %1.",module,Magento_RequisitionList
 "We can't specify a requisition list.","We can't specify a requisition list.",module,Magento_RequisitionList
 "We can't specify a product.","We can't specify a product.",module,Magento_RequisitionList
-"You added %1 item(s) to your shopping cart.","You added %1 item(s) to your shopping cart.",module,Magento_RequisitionList
+"You added %1 item(s) to your shopping cart.","Pridali ste %1 položiek do Vašeho nákupného košíka.",module,Magento_RequisitionList
 "Something went wrong.","Niečo sa pokazilo.",module,Magento_RequisitionList
 "We can't configure the product right now.","We can't configure the product right now.",module,Magento_RequisitionList
 "%1 item(s) were copied to %2","%1 item(s) were copied to %2",module,Magento_RequisitionList
@@ -11036,7 +11036,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Visibility","Viditeľnosť",module,Magento_Review
 "Nickname","Prezývka",module,Magento_Review
 "Summary of Review","Summary of Review",module,Magento_Review
-"Review","Review",module,Magento_Review
+"Review","Recenzia",module,Magento_Review
 "Previous","Predchádzajúca",module,Magento_Review
 "Save and Previous","Save and Previous",module,Magento_Review
 "Save and Next","Save and Next",module,Magento_Review
@@ -11170,7 +11170,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Status","Stav",module,Magento_ReviewStaging
 "Title","Titulok",module,Magento_ReviewStaging
 "Nickname","Prezývka",module,Magento_ReviewStaging
-"Review","Review",module,Magento_ReviewStaging
+"Review","Recenzia",module,Magento_ReviewStaging
 "Visibility","Viditeľnosť",module,Magento_ReviewStaging
 "Type","Typ",module,Magento_ReviewStaging
 "Product","Produkt",module,Magento_ReviewStaging
@@ -16041,7 +16041,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","We can't add the item to Wish List right now.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupného košíka.",module,Magento_Wishlist
 "This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","We can't load the Wish List item right now.",module,Magento_Wishlist
