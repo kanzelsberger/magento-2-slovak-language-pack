@@ -1402,7 +1402,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "PayPal Payment ID","PayPal Payment ID",module,Magento_Braintree
 "Created At","Created At",module,Magento_Braintree
 "Transaction ID","Transaction ID",module,Magento_Braintree
-"Order ID","Order ID",module,Magento_Braintree
+"Order ID","Kód Objednávky",module,Magento_Braintree
 "Type","Typ",module,Magento_Braintree
 "Amount","Amount",module,Magento_Braintree
 "Settlement Code","Settlement Code",module,Magento_Braintree
@@ -3743,7 +3743,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "City:","City:",module,Magento_Company
 "Country:","Country:",module,Magento_Company
 "State/Province:","State/Province:",module,Magento_Company
-"ZIP/Postal Code:","ZIP/Postal Code:",module,Magento_Company
+"ZIP/Postal Code:","Poštové smerovacie číslo:",module,Magento_Company
 "Phone Number:","Phone Number:",module,Magento_Company
 "Job Title:","Job Title:",module,Magento_Company
 "Email Address:","Email Address:",module,Magento_Company
@@ -4060,7 +4060,7 @@ for the following reason:",module,Magento_Company
 "ID","ID",module,Magento_Company
 "Reseller ID","Reseller ID",module,Magento_Company
 "Comment","Poznámka",module,Magento_Company
-"ZIP","ZIP",module,Magento_Company
+"ZIP","PSČ",module,Magento_Company
 "Customer Group","Zákaznicka skupina",module,Magento_Company
 "Company Admin","Company Admin",module,Magento_Company
 "Gender","Pohlavie",module,Magento_Company
@@ -4599,7 +4599,7 @@ new products will be created. Use this step to customize images and price for yo
 "Invalid email address","Neplatná e-mailová adresa",module,Magento_Contact
 "* Required Fields","* Povinné políčka",module,Magento_Contact
 "Write Us","Napíšte nám",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Zanechajte nám krátky odkaz a my sa Vám čo najskôr ozveme.",module,Magento_Contact
 "Name","Meno",module,Magento_Contact
 "Email","E-mail",module,Magento_Contact
 "Phone Number","Telefónne číslo",module,Magento_Contact
@@ -5224,12 +5224,12 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Are you sure to unsubscribe selected customers from newsletter?","Are you sure to unsubscribe selected customers from newsletter?",module,Magento_Customer
 "Unsubscribe from Newsletter","Unsubscribe from Newsletter",module,Magento_Customer
 "Phone","Phone",module,Magento_Customer
-"ZIP","ZIP",module,Magento_Customer
+"ZIP","PSČ",module,Magento_Customer
 "Customer Since","Customer Since",module,Magento_Customer
 "Confirmed email","Confirmed email",module,Magento_Customer
 "Account Created in","Konto vytvorené v",module,Magento_Customer
 "Tax VAT Number","Tax VAT Number",module,Magento_Customer
-"Billing Firstname","Nemo fakturačnej na adrese",module,Magento_Customer
+"Billing Firstname","Meno fakturačnej na adrese",module,Magento_Customer
 "Billing Lastname","Fakturácia priezvisko",module,Magento_Customer
 "Account Lock","Account Lock",module,Magento_Customer
 "First Name","Meno",module,Magento_Customer
@@ -5765,7 +5765,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Email","E-mail",module,Magento_CustomerSegment
 "Group","Group",module,Magento_CustomerSegment
 "Phone","Phone",module,Magento_CustomerSegment
-"ZIP","ZIP",module,Magento_CustomerSegment
+"ZIP","PSČ",module,Magento_CustomerSegment
 "Country","Krajina",module,Magento_CustomerSegment
 "State/Province","Štát/provincia",module,Magento_CustomerSegment
 "Customer Since","Customer Since",module,Magento_CustomerSegment
@@ -9504,7 +9504,7 @@ If field is empty default value localhost will be saved.",module,Magento_PageCac
 "Fee Debit or Credit","Fee Debit or Credit",module,Magento_Paypal
 "Fee Amount","Fee Amount",module,Magento_Paypal
 "Custom","Vlastné",module,Magento_Paypal
-"Order ID","Order ID",module,Magento_Paypal
+"Order ID","Kód Objednávky",module,Magento_Paypal
 "Preapproved Payment ID","Preapproved Payment ID",module,Magento_Paypal
 "Subscription ID","Subscription ID",module,Magento_Paypal
 "Credit","Credit",module,Magento_Paypal
@@ -11581,9 +11581,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Address Information","Informácie o adrese",module,Magento_Rma
 "RMA Totals","RMA Totals",module,Magento_Rma
 "Request Details","Request Details",module,Magento_Rma
-"ID","ID",module,Magento_Rma
+"ID","Kód",module,Magento_Rma
 "#","#",module,Magento_Rma
-"Order ID","Order ID",module,Magento_Rma
+"Order ID","Kód Objednávky",module,Magento_Rma
 "Customer Name","Customer Name",module,Magento_Rma
 "Email Address","E-mailová adresa",module,Magento_Rma
 "RMA History","RMA History",module,Magento_Rma
@@ -11922,8 +11922,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Comments History","Comments History",module,Magento_Sales
 "Order History","História objednávok",module,Magento_Sales
 "Information","Information",module,Magento_Sales
-"Order Information","Order Information",module,Magento_Sales
-"Order Invoices","Order Invoices",module,Magento_Sales
+"Order Information","Informácie o Objednávke",module,Magento_Sales
+"Order Invoices","Faktúry Objednávok",module,Magento_Sales
 "Shipments","Shipments",module,Magento_Sales
 "Order Shipments","Order Shipments",module,Magento_Sales
 "Transactions","Transactions",module,Magento_Sales
@@ -12048,7 +12048,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Please correct the transaction ID and try again.","Please correct the transaction ID and try again.",module,Magento_Sales
 "The transaction details have been updated.","The transaction details have been updated.",module,Magento_Sales
 "We can't update the transaction details.","We can't update the transaction details.",module,Magento_Sales
-"Orders and Returns","Orders and Returns",module,Magento_Sales
+"Orders and Returns","Objednávky a Reklamácie",module,Magento_Sales
 "Home","Domov",module,Magento_Sales
 "Go to Home Page","Prejdite na domovskú stránku",module,Magento_Sales
 "You entered incorrect data. Please try again.","You entered incorrect data. Please try again.",module,Magento_Sales
@@ -12381,7 +12381,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Transaction Data","Transaction Data",module,Magento_Sales
 "Transaction ID","Transaction ID",module,Magento_Sales
 "Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
-"Order ID","Order ID",module,Magento_Sales
+"Order ID","Kód Objednávky",module,Magento_Sales
 "Transaction Type","Transaction Type",module,Magento_Sales
 "Is Closed","Is Closed",module,Magento_Sales
 "Created At","Created At",module,Magento_Sales
@@ -12391,9 +12391,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Gift Message for this Order","Gift Message for this Order",module,Magento_Sales
 "Shipped By","Shipped By",module,Magento_Sales
 "Tracking Number","Tracking Number",module,Magento_Sales
-"Billing Last Name","Billing Last Name",module,Magento_Sales
-"Find Order By","Find Order By",module,Magento_Sales
-"ZIP Code","ZIP Code",module,Magento_Sales
+"Billing Last Name","Fakturácia Priezvisko",module,Magento_Sales
+"Find Order By","Nájsť Objednávku Podľa",module,Magento_Sales
+"ZIP Code","PSČ",module,Magento_Sales
 "Billing ZIP Code","Billing ZIP Code",module,Magento_Sales
 "Continue","Continue",module,Magento_Sales
 "Print All Refunds","Print All Refunds",module,Magento_Sales
@@ -12402,9 +12402,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product Name","Názov produktu",module,Magento_Sales
 "Order #","Objednávka #",module,Magento_Sales
 "Date","Dátum",module,Magento_Sales
-"Ship To","Ship To",module,Magento_Sales
+"Ship To","Doručiť Na",module,Magento_Sales
 "Actions","Akcie",module,Magento_Sales
-"View Order","Zobraziť objednávku",module,Magento_Sales
+"View Order","Zobraziť Objednávku",module,Magento_Sales
 "You have placed no orders.","You have placed no orders.",module,Magento_Sales
 "No shipping information available","No shipping information available",module,Magento_Sales
 "Print Order","Vytlačiť objednávku",module,Magento_Sales
@@ -13192,7 +13192,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Merge existing synonyms","Merge existing synonyms",module,Magento_Search
 "The synonym group with the ""%1"" ID can't be deleted. %2","The synonym group with the ""%1"" ID can't be deleted. %2",module,Magento_Search
 "Advanced Search","Rozšírené vyhľadávanie",module,Magento_SearchStaging
-"Search Terms","Search Terms",module,Magento_SearchStaging
+"Search Terms","Podmienky Vyhľadávania",module,Magento_SearchStaging
 "Account Activity","Account Activity",module,Magento_Security
 "All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
 "We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
@@ -16016,7 +16016,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Open Chooser","Open Chooser",module,Magento_Widget
 "Apply","Použiť",module,Magento_Widget
 "Page","Page",module,Magento_Widget
-"Orders and Returns","Orders and Returns",module,Magento_Widget
+"Orders and Returns","Objednávky a Reklamácie",module,Magento_Widget
 "Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Widget
 "Anchor Custom Title","Vlastný titulok kotvy",module,Magento_Widget
 "CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Widget
