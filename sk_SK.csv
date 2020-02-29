@@ -10035,7 +10035,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Edit Product Status","Edit Product Status",module,Magento_PricePermissions
 "Default Product Price","Default Product Price",module,Magento_PricePermissions
 "Defines the default product price","Defines the default product price",module,Magento_PricePermissions
-"You saved the alert subscription.","You saved the alert subscription.",module,Magento_ProductAlert
+"You saved the alert subscription.","Nastavenie upozornenia bolo uložené.",module,Magento_ProductAlert
 "There are not enough parameters.","There are not enough parameters.",module,Magento_ProductAlert
 "We can't update the alert subscription right now.","We can't update the alert subscription right now.",module,Magento_ProductAlert
 "Alert subscription has been saved.","Alert subscription has been saved.",module,Magento_ProductAlert
@@ -10071,7 +10071,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Error Email Recipient","Error Email Recipient",module,Magento_ProductAlert
 "Error Email Sender","Error Email Sender",module,Magento_ProductAlert
 "Error Email Template","Error Email Template",module,Magento_ProductAlert
-"Notify me when the price drops","Notify me when the price drops",module,Magento_ProductAlert
+"Notify me when the price drops","Upozornite ma keď sa zníži cena",module,Magento_ProductAlert
 "Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert
 "Sign up for price alert","Sign up for price alert",module,Magento_ProductAlert
 "Sign up to be notified when this product is back in stock.","Sign up to be notified when this product is back in stock.",module,Magento_ProductAlert
