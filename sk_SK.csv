@@ -10072,7 +10072,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Error Email Sender","Error Email Sender",module,Magento_ProductAlert
 "Error Email Template","Error Email Template",module,Magento_ProductAlert
 "Notify me when the price drops","Upozornite ma keď sa zníži cena",module,Magento_ProductAlert
-"Notify me when this product is in stock","Notify me when this product is in stock",module,Magento_ProductAlert
+"Notify me when this product is in stock","Upozornite ma keď bude produkt na sklade",module,Magento_ProductAlert
 "Sign up for price alert","Sign up for price alert",module,Magento_ProductAlert
 "Sign up to be notified when this product is back in stock.","Sign up to be notified when this product is back in stock.",module,Magento_ProductAlert
 "The alert subscription couldn't update at this time. Please try again later.","The alert subscription couldn't update at this time. Please try again later.",module,Magento_ProductAlert
