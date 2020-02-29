@@ -3267,8 +3267,8 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Message","Správa",module,Magento_Checkout
 "Print receipt","Vytlačiť potvrdenie",module,Magento_Checkout
 "Apply Discount Code","Použiť zľavový kód",module,Magento_Checkout
-"Enter discount code","Enter discount code",module,Magento_Checkout
-"Apply Discount","Apply Discount",module,Magento_Checkout
+"Enter discount code","Zadajte zľavový kód",module,Magento_Checkout
+"Apply Discount","Použiť zľavu",module,Magento_Checkout
 "Cancel Coupon","Cancel Coupon",module,Magento_Checkout
 "Shopping Cart Items","Položky nákupného košíku",module,Magento_Checkout
 "Item","Položka",module,Magento_Checkout
@@ -8801,8 +8801,8 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Item in Quote","Item in Quote",module,Magento_NegotiableQuote
 "Items in Quote","Items in Quote",module,Magento_NegotiableQuote
 "Apply Discount Code","Použiť zľavový kód",module,Magento_NegotiableQuote
-"Enter discount code","Enter discount code",module,Magento_NegotiableQuote
-"Apply Discount","Apply Discount",module,Magento_NegotiableQuote
+"Enter discount code","Zadajte zľavový kód",module,Magento_NegotiableQuote
+"Apply Discount","Použiť zľavu",module,Magento_NegotiableQuote
 "Cancel coupon","Cancel coupon",module,Magento_NegotiableQuote
 "Apply Gift Card","Apply Gift Card",module,Magento_NegotiableQuote
 "Enter the gift card code","Enter the gift card code",module,Magento_NegotiableQuote
@@ -12829,8 +12829,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
 "Apply Discount Code","Použiť zľavový kód",module,Magento_SalesRule
-"Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount","Apply Discount",module,Magento_SalesRule
+"Enter discount code","Zadajte zľavový kód",module,Magento_SalesRule
+"Apply Discount","Použiť zľavu",module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
