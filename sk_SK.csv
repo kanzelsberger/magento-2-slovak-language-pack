@@ -10038,7 +10038,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "You saved the alert subscription.","Nastavenie upozornenia bolo uložené.",module,Magento_ProductAlert
 "There are not enough parameters.","There are not enough parameters.",module,Magento_ProductAlert
 "We can't update the alert subscription right now.","We can't update the alert subscription right now.",module,Magento_ProductAlert
-"Alert subscription has been saved.","Alert subscription has been saved.",module,Magento_ProductAlert
+"Alert subscription has been saved.","Nastavenie upozornenia bolo uložené.",module,Magento_ProductAlert
 "You deleted the alert subscription.","You deleted the alert subscription.",module,Magento_ProductAlert
 "We can't find the product.","Produkt sa nedá nájsť.",module,Magento_ProductAlert
 "You will no longer receive price alerts for this product.","You will no longer receive price alerts for this product.",module,Magento_ProductAlert
