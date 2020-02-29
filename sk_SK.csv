@@ -16093,9 +16093,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Are you sure you want to remove this item?","Naozaj chcete odstrániť túto položku?",module,Magento_Wishlist
 "Special Price","Znížená cena",module,Magento_Wishlist
 "Regular Price","Bežná cena",module,Magento_Wishlist
-"Share Wish List","Share Wish List",module,Magento_Wishlist
+"Share Wish List","Zdieľať Zoznam Prianí",module,Magento_Wishlist
 "Add All to Cart","Add All to Cart",module,Magento_Wishlist
-"Update Wish List","Update Wish List",module,Magento_Wishlist
+"Update Wish List",Obnoviť Zoznam Prianí",module,Magento_Wishlist
 "Move to Wishlist","Pridať na zoznam prianí",module,Magento_Wishlist
 "Add to Wish List","Pridať do zoznamu prianí",module,Magento_Wishlist
 "View Product","View Product",module,Magento_Wishlist
@@ -16124,7 +16124,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
 "Last Added Items","Last Added Items",module,Magento_Wishlist
 "Remove This Item","Odstrániť túto položku",module,Magento_Wishlist
-"Go to Wish List","Go to Wish List",module,Magento_Wishlist
+"Go to Wish List","Zobraziť Zoznam Prianí",module,Magento_Wishlist
 "You have no items in your wish list.","V zozname prianí nemáte žiadne položky.",module,Magento_Wishlist
 "Take a look at %customer_name's Wish List","Take a look at %customer_name's Wish List",module,Magento_Wishlist
 "%customer_name wants to share this Wish List from %store_name with you:","%customer_name wants to share this Wish List from %store_name with you:",module,Magento_Wishlist
