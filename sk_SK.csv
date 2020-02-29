@@ -16094,7 +16094,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Special Price","Znížená cena",module,Magento_Wishlist
 "Regular Price","Bežná cena",module,Magento_Wishlist
 "Share Wish List","Zdieľať Zoznam Prianí",module,Magento_Wishlist
-"Add All to Cart","Add All to Cart",module,Magento_Wishlist
+"Add All to Cart","Pridať Všetko do Košíka",module,Magento_Wishlist
 "Update Wish List",Obnoviť Zoznam Prianí",module,Magento_Wishlist
 "Move to Wishlist","Pridať na zoznam prianí",module,Magento_Wishlist
 "Add to Wish List","Pridať do zoznamu prianí",module,Magento_Wishlist
