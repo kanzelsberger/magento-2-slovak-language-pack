@@ -12300,7 +12300,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Move to Wish List","Pridať do zoznamu prianí",module,Magento_Sales
 "Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Sales
 "Click to change shipping method","Click to change shipping method",module,Magento_Sales
-"Sorry, no quotes are available for this order.","Sorry, no quotes are available for this order.",module,Magento_Sales
+"Sorry, no quotes are available for this order.","Nenašli sme žiadny spôsob doručenia pre Vašu objednávku. Skontrolujte váhu produktov alebo krajinu doručenia.",module,Magento_Sales
 "Get shipping methods and rates","Get shipping methods and rates",module,Magento_Sales
 "You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
 "Customer's Activities","Customer's Activities",module,Magento_Sales
