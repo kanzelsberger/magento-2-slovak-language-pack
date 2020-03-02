@@ -8333,10 +8333,10 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Total for this address","Total for this address",module,Magento_Multishipping
 "Shipping Methods","Spôsob Doručenia",module,Magento_Multishipping
 "Edit Address","Upraviť adresu",module,Magento_Multishipping
-"Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
-"Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
-"Create Billing Address","Create Billing Address",module,Magento_Multishipping
-"Create Shipping Address","Create Shipping Address",module,Magento_Multishipping
+"Edit Billing Address","Upraviť Fakturačnú Adresu",module,Magento_Multishipping
+"Edit Shipping Address","Upraviť Doručovaciu Adresu",module,Magento_Multishipping
+"Create Billing Address","Vytvoriť Fakturačnú Adresu",module,Magento_Multishipping
+"Create Shipping Address","Vytvoriť Doručovaciu Adresu",module,Magento_Multishipping
 "Data saving problem","Data saving problem",module,Magento_Multishipping
 "We cannot open the overview page.","We cannot open the overview page.",module,Magento_Multishipping
 "Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
@@ -8365,18 +8365,18 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Select Address","Select Address",module,Magento_Multishipping
 "Add New Address","Pridať novú adresu",module,Magento_Multishipping
 "Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","Prosím vyberte adresy doručenia pre jednotlivé položky.",module,Magento_Multishipping
 "Product","Produkt",module,Magento_Multishipping
 "Qty","Množstvo",module,Magento_Multishipping
-"Send To","Send To",module,Magento_Multishipping
+"Send To","Doručiť Na",module,Magento_Multishipping
 "A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
 "Actions","Akcie",module,Magento_Multishipping
 "Remove Item","Remove Item",module,Magento_Multishipping
 "Remove item","Odstrániť položku",module,Magento_Multishipping
-"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
-"Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
-"Enter a New Address","Enter a New Address",module,Magento_Multishipping
-"Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
+"Go to Shipping Information","Zobraziť Informácie o Doručovaní",module,Magento_Multishipping
+"Update Qty &amp; Addresses","Aktualizovať Množstvá a Adresy,module,Magento_Multishipping
+"Enter a New Address","Zadať Novú Adresu",module,Magento_Multishipping
+"Back to Shopping Cart","Späť do Nákupného Košíka",module,Magento_Multishipping
 "Loading...","Načítávanie...",module,Magento_Multishipping
 "Billing Address","Adresa pre fakturáciu",module,Magento_Multishipping
 "Change","Zmeniť",module,Magento_Multishipping
