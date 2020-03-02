@@ -10011,7 +10011,7 @@ offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "We cannot load the configuration from file %1.","We cannot load the configuration from file %1.",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","Method ""%1"" is not defined in ""%2""",module,Magento_Persistent
 "To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
-"Remember Me","Remember Me",module,Magento_Persistent
+"Remember Me","Zapamätať",module,Magento_Persistent
 "What's this?","Čo to je?",module,Magento_Persistent
 "Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.","Check &quot;Remember Me&quot; to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
 "Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.","Check 'Remember Me' to access your shopping cart on this computer even if you are not signed in.",module,Magento_Persistent
@@ -13395,7 +13395,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "The maximum allowed catalog name length is {0} characters.","The maximum allowed catalog name length is {0} characters.",module,Magento_SharedCatalog
 "Conflicting row.","Conflicting row.",module,Magento_SharedCatalog
 "Generate Catalog","Generate Catalog",module,Magento_SharedCatalog
-"products","products",module,Magento_SharedCatalog
+"products","produkty",module,Magento_SharedCatalog
 "Expand All","Rozbaliť všetko",module,Magento_SharedCatalog
 "Collapse All","Zbaliť všetko",module,Magento_SharedCatalog
 "of","of",module,Magento_SharedCatalog
@@ -13620,7 +13620,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Date","Dátum",module,Magento_Shipping
 "Local Time","Local Time",module,Magento_Shipping
 "Description","Popis",module,Magento_Shipping
-"See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
+"See our Shipping Policy","Naše podmienky doručovania",module,Magento_Shipping
 "Shipping Settings Section","Shipping Settings Section",module,Magento_Shipping
 "Shipping Policy Parameters Section","Shipping Policy Parameters Section",module,Magento_Shipping
 "Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
