@@ -4606,7 +4606,7 @@ new products will be created. Use this step to customize images and price for yo
 "What’s on your mind?","Čo máte na mysli?",module,Magento_Contact
 "Submit","Potvrdiť",module,Magento_Contact
 "Contact Form","Kontaktný formulár",module,Magento_Contact
-"Phone","Phone",module,Magento_Contact
+"Phone","Telefón",module,Magento_Contact
 "Message","Správa",module,Magento_Contact
 "Contacts Section","Contacts Section",module,Magento_Contact
 "Contacts","Kontakty",module,Magento_Contact
@@ -5024,7 +5024,7 @@ new products will be created. Use this step to customize images and price for yo
 "Change","Zmeniť",module,Magento_Customer
 "Manage Addresses","Upraviť adresy",module,Magento_Customer
 "Default Shipping Address","Predvolená adresa doručenia",module,Magento_Customer
-"Contact Information","Contact Information",module,Magento_Customer
+"Contact Information","Kontaktné Informácie",module,Magento_Customer
 "Change Password","Zmeniť heslo",module,Magento_Customer
 "Newsletters","Odber Noviniek",module,Magento_Customer
 "You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
@@ -5086,7 +5086,7 @@ new products will be created. Use this step to customize images and price for yo
 "Fax","Fax",module,Magento_Customer
 "Gender","Pohlavie",module,Magento_Customer
 "Name","Meno",module,Magento_Customer
-"Tax/VAT number","IČO/DIČ",module,Magento_Customer
+"Tax/VAT number","IČO/DIČ/IČ DPH",module,Magento_Customer
 "Phone Number","Telefónne číslo",module,Magento_Customer
 "Welcome to %store_name","Vitajte v %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
@@ -5197,7 +5197,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "The suffix that goes after name (Jr., Sr., etc.)","The suffix that goes after name (Jr., Sr., etc.)",module,Magento_Customer
 "Suffix Dropdown Options","Suffix Dropdown Options",module,Magento_Customer
 "Show Date of Birth","Ukázať dátum narodenia",module,Magento_Customer
-"Show Tax/VAT Number","Ukázať čísla IČO/DIČ",module,Magento_Customer
+"Show Tax/VAT Number","Ukázať čísla IČO/DIČ/IČ DPH",module,Magento_Customer
 "Show Gender","Show Gender",module,Magento_Customer
 "Show Telephone","Show Telephone",module,Magento_Customer
 "Show Company","Show Company",module,Magento_Customer
@@ -5223,7 +5223,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Subscribe to Newsletter","Subscribe to Newsletter",module,Magento_Customer
 "Are you sure to unsubscribe selected customers from newsletter?","Are you sure to unsubscribe selected customers from newsletter?",module,Magento_Customer
 "Unsubscribe from Newsletter","Unsubscribe from Newsletter",module,Magento_Customer
-"Phone","Phone",module,Magento_Customer
+"Phone","Telefón",module,Magento_Customer
 "ZIP","PSČ",module,Magento_Customer
 "Customer Since","Customer Since",module,Magento_Customer
 "Confirmed email","Confirmed email",module,Magento_Customer
@@ -5525,7 +5525,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Choose Website:","Choose Website:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Potvrďte, zmenu stránky. Všetky úpravý, ktoré ešte neboli uložené budú stratené.",module,Magento_CustomerCustomAttributes
 "* Required Fields","* Povinné políčka",module,Magento_CustomerCustomAttributes
-"Contact Information","Contact Information",module,Magento_CustomerCustomAttributes
+"Contact Information","Kontaktné Informácie",module,Magento_CustomerCustomAttributes
 "Address","Adresa",module,Magento_CustomerCustomAttributes
 "Street Address","Ulica",module,Magento_CustomerCustomAttributes
 "Street Address %1","Ulica %1",module,Magento_CustomerCustomAttributes
@@ -5763,8 +5763,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Excel XML","Excel XML",module,Magento_CustomerSegment
 "Name","Meno",module,Magento_CustomerSegment
 "Email","E-mail",module,Magento_CustomerSegment
-"Group","Group",module,Magento_CustomerSegment
-"Phone","Phone",module,Magento_CustomerSegment
+"Group","Skupina",module,Magento_CustomerSegment
+"Phone","Telefón",module,Magento_CustomerSegment
 "ZIP","PSČ",module,Magento_CustomerSegment
 "Country","Krajina",module,Magento_CustomerSegment
 "State/Province","Štát/provincia",module,Magento_CustomerSegment
@@ -10007,7 +10007,7 @@ For example, PayPal Credit is only shown to buyers in countries where PayPal Cre
 offered and the currency offered by the merchant is USD.",module,Magento_Paypal
 "Not you?","Nie ste to vy?",module,Magento_Persistent
 "Your shopping cart has been updated with new prices.","Your shopping cart has been updated with new prices.",module,Magento_Persistent
-"Welcome, %1!","Welcome, %1!",module,Magento_Persistent
+"Welcome, %1!","Vitajte, %1!",module,Magento_Persistent
 "We cannot load the configuration from file %1.","We cannot load the configuration from file %1.",module,Magento_Persistent
 "Method ""%1"" is not defined in ""%2""","Method ""%1"" is not defined in ""%2""",module,Magento_Persistent
 "To check out, please sign in using your email address.","To check out, please sign in using your email address.",module,Magento_Persistent
@@ -12545,8 +12545,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Template","Šablóna",module,Magento_Sales
 "Default Template","Default Template",module,Magento_Sales
 "Name","Meno",module,Magento_Sales
-"Phone","Phone",module,Magento_Sales
-"ZIP/Post Code","ZIP/Post Code",module,Magento_Sales
+"Phone","Telefón",module,Magento_Sales
+"ZIP/Post Code","PSČ",module,Magento_Sales
 "Signed-up Point","Signed-up Point",module,Magento_Sales
 "Website","Webová stránka",module,Magento_Sales
 "Bill-to Name","Názov platiteľa",module,Magento_Sales
@@ -13102,7 +13102,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Search Term","Hľadaný výraz",module,Magento_Search
 "Results","Výsledky",module,Magento_Search
 "Uses","Použitia",module,Magento_Search
-"Search Terms","Podmienky Vyhľadávania",module,Magento_Search
+"Search Terms","Vyhľadávané Výrazy",module,Magento_Search
 "Search Synonyms","Search Synonyms",module,Magento_Search
 "New Synonym Group","New Synonym Group",module,Magento_Search
 "Back","Späť",module,Magento_Search
@@ -13192,7 +13192,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Merge existing synonyms","Merge existing synonyms",module,Magento_Search
 "The synonym group with the ""%1"" ID can't be deleted. %2","The synonym group with the ""%1"" ID can't be deleted. %2",module,Magento_Search
 "Advanced Search","Rozšírené vyhľadávanie",module,Magento_SearchStaging
-"Search Terms","Podmienky Vyhľadávania",module,Magento_SearchStaging
+"Search Terms","Vyhľadávané Výrazy",module,Magento_SearchStaging
 "Account Activity","Account Activity",module,Magento_Security
 "All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
 "We couldn't logout because of an error.","We couldn't logout because of an error.",module,Magento_Security
@@ -13257,7 +13257,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Add Invitee","Add Invitee",module,Magento_SendFriend
 "Send Email","Send Email",module,Magento_SendFriend
 "Back","Späť",module,Magento_SendFriend
-"Welcome, %name","Welcome, %name",module,Magento_SendFriend
+"Welcome, %name","Vitajte, %name",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
 "Message from %sender_name:","Message from %sender_name:",module,Magento_SendFriend
@@ -13698,7 +13698,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Edit Sitemap","Edit Sitemap",module,Magento_Sitemap
 "New Sitemap","New Sitemap",module,Magento_Sitemap
 "Sitemap Information","Sitemap Information",module,Magento_Sitemap
-"Sitemap","Sitemap",module,Magento_Sitemap
+"Sitemap","Mapa stránky",module,Magento_Sitemap
 "Filename","Filename",module,Magento_Sitemap
 "example: sitemap.xml","example: sitemap.xml",module,Magento_Sitemap
 "Path","Path",module,Magento_Sitemap
@@ -14661,7 +14661,7 @@ than a customer might expect. ",module,Magento_Tax
 "Remove","Odstrániť",module,Magento_Theme
 "Help Us Keep Magento Healthy","Help Us Keep Magento Healthy",module,Magento_Theme
 "Report All Bugs","Report All Bugs",module,Magento_Theme
-"Welcome, %1!","Welcome, %1!",module,Magento_Theme
+"Welcome, %1!","Vitajte, %1!",module,Magento_Theme
 "Toggle Nav","Toggle Nav",module,Magento_Theme
 "JavaScript seems to be disabled in your browser.","JavaScript seems to be disabled in your browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","For the best experience on our site, be sure to turn on Javascript in your browser.",module,Magento_Theme
